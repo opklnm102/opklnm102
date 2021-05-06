@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 [![Linkedin badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dong-hee-kim-68a9a3a5/)](https://www.linkedin.com/in/dong-hee-kim-68a9a3a5/)
 [![GitHub badge](https://img.shields.io/github/followers/opklnm102?label=follow&style=social)](https://github.com/opklnm102)
 
-[![Hue Kim's github stats](https://github-readme-stats.vercel.app/api?username=opklnm102)](https://github.com/anuraghazra/github-readme-stats)
+[![opklnm102's github stats](https://github-readme-stats.vercel.app/api?username=opklnm102)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opklnm102&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![opklnm102's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=opklnm102&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
